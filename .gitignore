@@ -1,0 +1,8 @@
+env/
+artifacts/
+mlruns/
+data/
+output/
+.ipynb_checkpoints
+*db
+
